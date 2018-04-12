@@ -4,7 +4,7 @@ This purpose of the script in this repo is to try and predict the age/age-group 
 
 # Tools
 
-- Python
+- Python 3.6
 - Jupyter Notebook
 
 # External Dependencies
