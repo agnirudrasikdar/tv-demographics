@@ -4,12 +4,15 @@ This purpose of the script in this repo is to try and predict the age/age-group 
 
 # Tools
 
-Python
-Jupyter Notebook
+- Python
+- Jupyter Notebook
 
 # External Dependencies
 
-pandas
-numpy
-scikit-learn
-matplotlib
+- pandas
+
+- numpy
+
+- scikit-learn
+
+- matplotlib
